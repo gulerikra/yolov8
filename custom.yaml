@@ -1,0 +1,9 @@
+train: /content/data_set/images/train
+val: /content/data_set/images/val
+
+
+# number of classes
+nc: 2
+
+# class names
+names: [ 'dogru','eksik']
