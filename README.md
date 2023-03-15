@@ -23,3 +23,7 @@ Dataset içerisinde images ve label klasörü, images ve label klasörü içeris
 Train klasörü içerisinde dogru etiketli resimlerin %80, val klasöründe dogru etiketli resimlerin %20'si olmalı. Aynı şekilde diğer class için de 80/20 şeklinde ayrılmalı.
 
 Bu 80/20 oranı tercihe göre değişebilir.
+
+Model eğitimi yapılırken:
+
+yolov8.ipynb ve custom.yaml dosyaları kullanılacak
