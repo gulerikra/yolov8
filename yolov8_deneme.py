@@ -1,7 +1,7 @@
 from ultralytics import YOLO
 import os
 from PIL import Image
-model = YOLO("last1.pt") #last3
+model = YOLO("last.pt") # ağırlık dosyası
 
 # Klasördeki dosya isimlerini al
 folder_path = "C:\\Users\\ikra\\Pictures\\yolov8\\foto\\"
