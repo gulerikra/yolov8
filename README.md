@@ -16,7 +16,7 @@ Change Save Dir ile resimlerin .txt dosyalarının kaydedileceği konum seçilir
 
 yolo seçeneği seçili olmalı
 
-![fdvs](https://user-images.githubusercontent.com/62421679/225256374-596ad0d9-6138-47be-be9c-c4950a8b5669.PNG)
+![a](https://user-images.githubusercontent.com/62421679/228286555-4040fb92-a438-4a2a-85e7-0d83cc8f14df.png)
 
 Dataset içerisinde images ve label klasörü, images ve label klasörü içerisinde train ve val klasörleri olacak. 
 
