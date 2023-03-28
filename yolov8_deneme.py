@@ -1,10 +1,10 @@
 from ultralytics import YOLO
 import os
 from PIL import Image
-model = YOLO("last.pt") # ağırlık dosyası
+model = YOLO("best.pt") # ağırlık dosyası
 
 # Klasördeki dosya isimlerini al
-folder_path = "C:\\Users\\ikra\\Pictures\\yolov8\\foto\\"
+folder_path = "C:\\Users\\ikra\\yolov8\\foto\\"
 file_names = os.listdir(folder_path)
 
 # Dosya isimleri üzerinden for döngüsü ile resimleri aç
@@ -13,7 +13,7 @@ for file_name in file_names:
         file_path = os.path.join(folder_path, file_name)
         image = Image.open(file_path)
 
-        de_out=model.predict(source=image, conf=0.4, show=False, device='cpu')
+        de_out=model.predict(source=image, conf=0.4, show=False, device='cpu') # conf:doğruluk, show:değerlendirilmiş resmi ekranda gösterme(True/False) 
 
         if len(de_out) != 0:
             isCompress = 0
