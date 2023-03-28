@@ -1,6 +1,6 @@
 # yolov8
 
-Eğitim labelimg ile yapıldı. 
+Etiketleme labelimg ile yapıldı. 
 
 https://pypi.org/project/labelImg/
 
