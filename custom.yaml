@@ -1,7 +1,6 @@
 train: /content/data_set/images/train  #train ve val klasörünün konumu
 val: /content/data_set/images/val
 
-
 # class sayısı
 nc: 4
 
