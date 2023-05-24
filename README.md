@@ -1,6 +1,6 @@
 # yolov8
 
-1. Etiketleme işlemi
+1. ETİKETLEME İŞLEMİ
 
 --> Etiketleme labelimg ile yapıldı.
 
@@ -30,7 +30,7 @@ C:\Users\ikra\labelImg\data içerisindeki predefined_classes.txt dosyası class 
 
 -----------------------------------------------------------------
 
-2. Dataset için klasör oluşturma
+2. DATASET İÇİ KLASÖR OLUŞTURMA
 
 ![ii](https://github.com/gulerikra/yolov8/assets/62421679/754fd5c6-3709-4ca7-808d-12c48920ad2e)
 
@@ -46,7 +46,7 @@ C:\Users\ikra\labelImg\data içerisindeki predefined_classes.txt dosyası class 
 
 ----------------------------------------------------------------------
 
-3. Model eğitimi yapılırken
+3. MODEL EĞİTİMİ
 
 --> yolov8.ipynb ve custom.yaml dosyaları kullanılacak.
 
@@ -54,6 +54,6 @@ C:\Users\ikra\labelImg\data içerisindeki predefined_classes.txt dosyası class 
 
 ------------------------------------------------------------------------
 
-4. Modeli test etme
+4. MODELİ TEST ETME
 
 --> yolov8_deneme.py koduna ağırlık dosyası ve örnek klasördeki resimleri vererek model test edilir.
