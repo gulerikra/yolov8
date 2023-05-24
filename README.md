@@ -1,10 +1,10 @@
 # yolov8
 
-Etiketleme labelimg ile yapıldı.
+1. Etiketleme işlemi
+
+--> Etiketleme labelimg ile yapıldı.
 
 https://pypi.org/project/labelImg/
-
-1. Etiketleme işlemi
 
 --> Class isimlerini ayarlama
 
