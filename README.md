@@ -36,7 +36,7 @@ C:\Users\ikra\labelImg\data içerisindeki predefined_classes.txt dosyası class 
 
 --> Dataset içerisinde images ve label klasörü, images ve label klasörü içerisinde train ve val klasörleri olacak.
 
---> Train klasörü içerisinde dogru etiketli resimlerin %80, val klasöründe dogru etiketli resimlerin %20'si olmalı. Aynı 
+--> Train klasörü içerisinde 'dogru' etiketli resimlerin %80, val klasöründe 'dogru' etiketli resimlerin %20'si olmalı. Aynı 
 
 şekilde diğer class için de 80/20 şeklinde ayrılmalı.
 
