@@ -3,7 +3,7 @@ val: /content/data_set/images/val
 
 
 # class sayısı
-nc: 2
+nc: 4
 
 # class isimleri
-names: [ 'dogru','eksik']
+names: [ 'dogru','eksik','delik','patlama']
