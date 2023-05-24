@@ -12,7 +12,7 @@ C:\Users\ikra\labelImg\data içerisindeki predefined_classes.txt dosyası class 
 
 ![cdxs](https://github.com/gulerikra/yolov8/assets/62421679/63d308c2-2069-47ed-adcf-3a4ba18c9dc6)
 
-2. Uygulamayı açma
+--> Uygulamayı açma
 
 ![vcx](https://github.com/gulerikra/yolov8/assets/62421679/fe88538b-33f1-4b91-ab9d-668d036c527a)
 
@@ -28,7 +28,9 @@ C:\Users\ikra\labelImg\data içerisindeki predefined_classes.txt dosyası class 
 
 ![aaaaaaaaaa](https://github.com/gulerikra/yolov8/assets/62421679/c7d8b9e5-c990-44b4-9da0-575fd03fa6c8)
 
-3. Dataset için klasör oluşturma
+-----------------------------------------------------------------
+
+2. Dataset için klasör oluşturma
 
 ![ii](https://github.com/gulerikra/yolov8/assets/62421679/754fd5c6-3709-4ca7-808d-12c48920ad2e)
 
@@ -42,12 +44,16 @@ C:\Users\ikra\labelImg\data içerisindeki predefined_classes.txt dosyası class 
 
 --> Bu 80/20 oranı tercihe göre değişebilir.
 
-4. Model eğitimi yapılırken
+----------------------------------------------------------------------
+
+3. Model eğitimi yapılırken
 
 --> yolov8.ipynb ve custom.yaml dosyaları kullanılacak.
 
 --> Eğitim tamamlandıktan sonra best.pt ve last.pt isimli ağırlık dosyaları oluşur.
 
-5. Modeli test etme
+------------------------------------------------------------------------
+
+4. Modeli test etme
 
 --> yolov8_deneme.py koduna ağırlık dosyası ve örnek klasördeki resimleri vererek model test edilir.
