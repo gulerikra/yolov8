@@ -5,4 +5,4 @@ val: /content/data_set/images/val
 nc: 4
 
 # class isimleri
-names: [ 'dogru','eksik','delik','patlama']
+names: ['dogru','eksik','delik','patlama']
