@@ -10,11 +10,11 @@ https://pypi.org/project/labelImg/
 
 C:\Users\ikra\labelImg\data içerisindeki predefined_classes.txt dosyası class isimlerine göre düzenlenir.
 
-![cdxs](https://github.com/gulerikra/yolov8/assets/62421679/63d308c2-2069-47ed-adcf-3a4ba18c9dc6)
+![gfds](https://github.com/gulerikra/yolov8/assets/62421679/0edcad9d-ffa9-438d-b68e-1565d5949db0)
 
 --> Uygulamayı açma
 
-![vcx](https://github.com/gulerikra/yolov8/assets/62421679/fe88538b-33f1-4b91-ab9d-668d036c527a)
+![vcx](https://github.com/gulerikra/yolov8/assets/62421679/9c2f757c-d771-42ee-b292-ec89c74bc881)
 
 --> Open Dir ile resimlerin bulunduğu klasör açılır.
  
@@ -26,13 +26,11 @@ C:\Users\ikra\labelImg\data içerisindeki predefined_classes.txt dosyası class 
 
 --> Ardından save yapılır.
 
-![aaaaaaaaaa](https://github.com/gulerikra/yolov8/assets/62421679/c7d8b9e5-c990-44b4-9da0-575fd03fa6c8)
+![aaaaaaaaaa](https://github.com/gulerikra/yolov8/assets/62421679/69c5f26a-82e1-4e5c-a3d1-0022d892a5f1)
 
 -----------------------------------------------------------------
 
 2. DATASET İÇİ KLASÖR OLUŞTURMA
-
-![ii](https://github.com/gulerikra/yolov8/assets/62421679/754fd5c6-3709-4ca7-808d-12c48920ad2e)
 
 --> Dataset içerisinde images ve label klasörü, images ve label klasörü içerisinde train ve val klasörleri olacak.
 
